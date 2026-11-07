@@ -1241,3 +1241,12 @@ Your contributions are always welcome! Please take a look at the [contribution g
 ---
 
 If you have any question about this opinionated list, do not hesitate to contact [@vinta](https://x.com/vinta) on X (Twitter).
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [vinta/awesome-python](https://github.com/vinta/awesome-python), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: própria do projeto (ver o arquivo LICENSE) (mantida sem alterações).
+
+**Fonte original:** https://github.com/vinta/awesome-python
